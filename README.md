@@ -32,7 +32,11 @@ faça o download da <a href="https://github.com/HeitorPreviero/festa-fim-de-ano/
 
 - Minimum SDK level 19
 - [Linguagem Java 8](https://www.java.com/pt-BR/) 
- 
+    
+- Jetpack
+  - Lifecycle: Observe os ciclos de vida do Android e manipule os estados da interface do usuário após as alterações do ciclo de vida.
+  - SharedPreferences: Grava as informação simples de tela e aloca em memoria diferente de um banco de dados
+   
 ## Features
 
 ### Feature 1
