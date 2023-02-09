@@ -11,7 +11,7 @@
 
 ⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Java. Mais informações técnicas abaixo.
 
-🎥 Aplicativo recebe um valor em Real no imput que faz uma conversão em Dólar e Euro e exibe em tela depois que feito o calulo esse dois valores.
+🎥 Esse aplicativo festa fim de trabalha com manibulação de datas e tambem trabalha com interação de duas telas onde apos selecionado o checkbox salva em memoria a descição é mostrada essa informação na tela inicial
 
 </p>
 
@@ -20,13 +20,13 @@
 <p float="left" align="center">
 <img alt="screenshot" width="30%" src="screenshot/screenshot_1.png"/>
 <img alt="screenshot" width="30%" src="screenshot/Screenshot_2.png"/>
-<img alt="screenshot" width="30%" src="screenshot/Screenshot_3.png"/>
 <img alt="screenshot" width="30%" src="screenshot/Screenshot_4.png"/>
+<img alt="screenshot" width="30%" src="screenshot/Screenshot_3.png"/>
 </p>
 
 ## Download
 
-faça o download da <a href="https://github.com/HeitorPreviero/ConversorMoedas/blob/main/apk/v1.apk?raw=true">APK diretamente</a>. Você pode ver <a href="https://www.google.com/search?q=como+instalar+um+apk+no+android">aqui</a> como instalar uma APK no seu aparelho android.
+faça o download da <a href="https://github.com/HeitorPreviero/festa-fim-de-ano/blob/main/apk/v1.apk?raw=true">APK diretamente</a>. Você pode ver <a href="https://www.google.com/search?q=como+instalar+um+apk+no+android">aqui</a> como instalar uma APK no seu aparelho android.
 
 ## Tecnologias usadas 
 
@@ -38,6 +38,6 @@ faça o download da <a href="https://github.com/HeitorPreviero/ConversorMoedas/b
 ### Feature 1
 <img src="screenshot/feature-1.gif" width="25%"/>
 
-- ele recebe uma valor em Real e depois que for acionado o botão de calcular é feito conversão para Dólar e Euro.
-- se não for passado nenhum valor a tela retorna uma mensagem de alerta pro úsuario.
-- botão de limpar ao ser acionado ele lipa os  dados em tela para poder inciar um novo calculo.
+- Na tela inicial é mostada a tada atual e é a realizado um calculo para verificar a quantidade de dias restante do ano
+- No botão é exibido a informação salva apos selecionado se ira participar da fezta ou não e esse mesmo botão entra na segundo tela com checkbox
+- Apos selecionar o checkbox retorna a tela inicial exbindo a descição escolhida 
